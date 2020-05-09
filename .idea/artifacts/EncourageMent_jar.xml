@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EncourageMent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EncourageMent_jar</output-path>
+    <root id="archive" name="EncourageMent.jar">
+      <element id="module-output" name="EncourageMent" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/SpigotServer/spigot-1.15.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
